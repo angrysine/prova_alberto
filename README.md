@@ -1,4 +1,5 @@
 # Avaliacoes-M7-Inteli
+
 Avaliações do Módulo 7
 
 Para executar o backend:
@@ -13,4 +14,14 @@ Para executar o frontend:
 node server.js
 ```
 
-| ***IMPORTANTE:*** Utilizar dentro do contexto do container.
+| **_IMPORTANTE:_** Utilizar dentro do contexto do container.
+
+## Adições do betinho
+
+Para iniciar o código na root rode:
+
+```bash
+docker compose up
+```
+
+Para entrar no frontend (muito "bonito" e "funcional") rode va até <http://localhost:3000>

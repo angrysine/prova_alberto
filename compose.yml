@@ -1,0 +1,11 @@
+services:
+  web:
+    image: angrysine/frontend_prova_alberto
+    ports:
+      - "3000:3000"
+
+  api:
+    image: angrysine/backend_prova
+
+    ports:
+      - "8000:8000"
