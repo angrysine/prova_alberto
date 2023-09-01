@@ -24,4 +24,4 @@ Para iniciar o código na root rode:
 docker compose up
 ```
 
-Para entrar no frontend (muito "bonito" e "funcional") rode va até <http://localhost:3000>
+Para entrar no frontend (muito "bonito" e "funcional") use o link <http://localhost:3000>
